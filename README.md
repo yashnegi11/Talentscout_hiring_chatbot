@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-🔐 OpenRouter API Key Setup
+## 🔐 OpenRouter API Key Setup
 Visit OpenRouter.ai
 
 Create a free account and get your API key
@@ -92,7 +92,7 @@ OpenRouter (LLMs)
 
 Pandas
 
-##📈 Future Improvements
+## 📈 Future Improvements
 Resume file upload + parsing
 
 PDF export of interview
@@ -101,7 +101,7 @@ Integration with HR systems
 
 Score generation or feedback
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Yash Pal Singh Negi
 📫 [yashnegiuk02@gmail.com]
 🎯 Machine Learning & AI enthusiast
