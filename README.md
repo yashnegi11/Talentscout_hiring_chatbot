@@ -21,6 +21,7 @@ talentscout_chatbot/
 ├── prompts.py          # Prompt templates and helper generators
 ├── utils.py            # API validation, question generation, data saving
 ├── candidates.csv      # Saved interview records (questions + responses)
+├── requirements.txt    # Requirements
 ├── venv/               # Virtual environment
 ├── __pycache__/        # Python cache files
 └── README.md           # Project documentation
