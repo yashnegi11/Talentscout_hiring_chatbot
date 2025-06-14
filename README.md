@@ -17,14 +17,14 @@ TalentScout is a smart, interactive Streamlit-based chatbot designed to simulate
 ## 🗂️ Project Structure
 
 talentscout_chatbot/
-│
-├── app.py # Streamlit app logic
-├── prompts.py # Prompt templates and helper generators
-├── utils.py # API validation, question generation, data saving
-├── candidates.csv # Saved interview records (questions + responses)
-├── venv/ # Virtual environment
-├── pycache/ # Python cache files
-└── README.md # Project documentation
+├── app.py              # Streamlit app logic
+├── prompts.py          # Prompt templates and helper generators
+├── utils.py            # API validation, question generation, data saving
+├── candidates.csv      # Saved interview records (questions + responses)
+├── venv/               # Virtual environment
+├── __pycache__/        # Python cache files
+└── README.md           # Project documentation
+
 
 ---
 
